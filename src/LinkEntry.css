@@ -1,0 +1,32 @@
+.LinkEntry {
+  text-align: left;
+  width: 45%;
+  border: 1px solid goldenrod;
+  margin: 3px;
+  border-radius: 20px;
+  height: 50px;
+  padding: 10px;
+  background-color: #181818;
+}
+
+.name {
+  display: inline-block;
+}
+
+.source {
+  display: inline-block;
+}
+
+.target {
+  display: inline-block;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  margin-top: 2px;
+}
+
+@media (max-width: 800px) {
+  .LinkEntry {
+    width: auto;
+    width: 65%;
+  }
+}

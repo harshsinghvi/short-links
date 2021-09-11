@@ -1,0 +1,7 @@
+{
+    "links":[
+        {"name": "Website", "source": "https://harshsinghvi.com/website", "target": "https://harshsinghvi.com" },
+        {"name": "Blog", "source": "https://harshsinghvi.com/blog", "target": "https://blog.harshsinghvi.com" },
+        {"name": "Achievements", "source": "https://harshsinghvi.com/achievements", "target": "https://achievements.harshsinghvi.com" }
+    ]
+}
